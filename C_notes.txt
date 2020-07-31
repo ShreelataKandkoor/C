@@ -1,0 +1,4 @@
+>gcc filename.c -o name_exe file
+>name_exe file
+
+run the program
